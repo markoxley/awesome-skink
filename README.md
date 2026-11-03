@@ -13,13 +13,17 @@ then `import "mod/markoxley/<repo>"` in your sources.
 
 ## Contents
 
-- [Database](#database)
-- [Web](#web)
-- [AI & NLP](#ai--nlp)
-- [Multimedia](#multimedia)
-- [Game Development](#game-development)
-- [Configuration](#configuration)
-- [Development Tools](#development-tools)
+- [Awesome Skink ](#awesome-skink-)
+  - [Contents](#contents)
+  - [Database](#database)
+  - [Web](#web)
+  - [AI \& NLP](#ai--nlp)
+  - [Multimedia](#multimedia)
+  - [Game Development](#game-development)
+  - [Configuration](#configuration)
+  - [Development Tools](#development-tools)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Database
 
@@ -71,7 +75,6 @@ then `import "mod/markoxley/<repo>"` in your sources.
 - [skink-lsp](https://github.com/markoxley/skink/tree/main/tools/skink-lsp) — Language server for editor integration (VS Code extension available).
 - [skinkjs](https://github.com/markoxley/skink/tree/main/tools/skinkjs) — Skink → ECMAScript/JavaScript backend.
 - [skinkcov](https://github.com/markoxley/skink/tree/main/tools/skinkcov) — Coverage reporter for `skink -cov` instrumented builds.
-- [baby-skink](https://github.com/markoxley/skink/tree/main/tools/baby-skink) — Experimental MCU backend emitting C99 for AVR, RP2040, K210 and ESP32.
 
 ## Contributing
 
