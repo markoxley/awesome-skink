@@ -20,6 +20,7 @@ then `import "mod/markoxley/<repo>"` in your sources.
   - [AI \& NLP](#ai--nlp)
   - [Multimedia](#multimedia)
   - [Game Development](#game-development)
+  - [GUI](#gui)
   - [Configuration](#configuration)
   - [Development Tools](#development-tools)
   - [Contributing](#contributing)
@@ -61,6 +62,12 @@ then `import "mod/markoxley/<repo>"` in your sources.
 ## Game Development
 
 - [skink-game](https://github.com/markoxley/skink-game) — 2D game toolkit: engine core (entities, fixed-timestep loop, math), pure-Skink ANSI terminal backend, SDL2 backend in `game/sdl`.
+
+## GUI
+
+*Libraries for building native desktop applications.*
+
+- [skink-gnome](https://github.com/markoxley/skink-gnome) — GNOME desktop apps in pure Skink: GTK 4 widgets (windows, header bars, entries, menus/`GAction`s, GLib main loop) plus libadwaita (`AdwApplicationWindow`, toasts, banners, preference rows, alert dialogs, dark mode) — no C shim.
 
 ## Configuration
 
